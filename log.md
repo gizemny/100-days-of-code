@@ -10,9 +10,7 @@ I started the 100 day challenge on January 8th but only found [pomello](http://p
 *On Javascript 30*: I am not familiar enough with ES6 syntax to do the projects on my own but I still benefit from working along with the video — especially seeing how Wes uses inspector to troubleshoot and reveal methods. The css variable and flexbox lessons were my favorite. I have been taking lots of handwritten notes but I was really inspired by [Meredith's blog](http://blog.meredithunderell.com/tag/javascript30/) which influenced me to use this log. 
 Learned a lot of new things like targeting with `data-* attributes` instead of class/id, `transition-timing-function` bezier tool in the inspector, `console.table()`, flexbox, etc etc   
 
-**Link to work:
-[JavaScript30](https://github.com/gizemny/JavaScript30)
-[Codepen](http://codepen.io/gizemist/posts/) 
+**Link to work**: 1) [JavaScript30](https://github.com/gizemny/JavaScript30) 2) [Codepen](http://codepen.io/gizemist/posts/) 
 
 ### Day 15: January 30, 2017
 
@@ -20,11 +18,11 @@ Learned a lot of new things like targeting with `data-* attributes` instead of c
 Today I finished the 7th lesson in [JavaScript30](https://github.com/gizemny/JavaScript30). It was the second array methods exercise. 
 
 **Thoughts:** 
-... spread operator (to put array inside array)
-=> key functions (particularly useful to shorten code) 
-\`${}\` template strings
+- ... spread operator (to put array inside array)
+- => key functions (particularly useful to shorten code) 
+- \`${}\` template strings
 
-**Link to work:
+**Link to work**:
 [JavaScript30](https://github.com/gizemny/JavaScript30)
 
 
