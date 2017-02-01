@@ -25,4 +25,13 @@ Today I finished the 7th lesson in [JavaScript30](https://github.com/gizemny/Jav
 **Link to work**:
 [JavaScript30](https://github.com/gizemny/JavaScript30)
 
+### Day 16: January 31, 2017
+**Today's Progress**: 
+Today returned to my abandoned FreeCodeCamp map; brushed up on basic js and algorithm scripting. 
+
+**Thoughts:** 
+The algorithm scripting section is a lot of fun. I got stumped on the recursion one tho. 😕  
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny)
 
