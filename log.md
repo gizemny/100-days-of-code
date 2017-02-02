@@ -35,3 +35,11 @@ The algorithm scripting section is a lot of fun. I got stumped on the recursion 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny)
 
+### Day 17: February 1, 2017
+**Today's Progress**: 
+Tried working on the palindrome and some OOP... did not go so well. .
+
+**Thoughts:** 
+I redid the recursion one and still don't fully understand but repetition is good. Spent too much time stuck on 1 problem and felt defeated; tried some OOP and bummed out on that too. Next time when I get stuck, I will work through other milestones or switch to JS30. ♥️ Also spent 10 mins crafting a tweet to a bot 🙃
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny)
