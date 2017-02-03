@@ -44,3 +44,13 @@ I redid the recursion one and still don't fully understand but repetition is goo
 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny)
+
+### Day 18: February 2, 2017
+**Today's Progress**: 
+Worked through many basic js but got stumped on the bonfire. 
+
+**Thoughts:** 
+I keep resorting to for loops for every solution. Instead, it needed .map(function(val)) & .charAt(). 
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny)
