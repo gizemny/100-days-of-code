@@ -54,3 +54,13 @@ I keep resorting to for loops for every solution. Instead, it needed .map(functi
 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny)
+
+### Day 19: February 6, 2017
+**Today's Progress**: 
+Worked on some basic bonfires at FCC. 
+
+**Thoughts:** 
+I got close to the solution but ended up looking up the answer. Eventually I will reset them all and try again. I have been super busy with guests in town and prepping for our conference, so I have skipped some days :( sorry!
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny)
