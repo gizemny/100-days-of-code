@@ -74,3 +74,13 @@ Using [repl.it](https://repl.it/languages/javascript) really helped. I did 2 on 
 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny)
+
+### Day 21: February 11, 2017
+**Today's Progress**: 
+Worked a little bit on FCC but didn't actually solve anything. 
+
+**Thoughts:** 
+We were out today celebrating a bday so its hard to code after that. 
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny)
