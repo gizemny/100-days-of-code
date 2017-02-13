@@ -84,3 +84,13 @@ We were out today celebrating a bday so its hard to code after that.
 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny)
+
+### Day 22: February 12, 2017
+**Today's Progress**: 
+Worked through some challenges on FCC 
+
+**Thoughts:** 
+I got really close with one but fumbled because didn't remember this existed: hasOwnProperty() method returns a boolean indicating whether the object has the specified property. Oh you elusive objects! I shall own you someday.
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny)
