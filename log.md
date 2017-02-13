@@ -87,10 +87,10 @@ We were out today celebrating a bday so its hard to code after that.
 
 ### Day 22: February 12, 2017
 **Today's Progress**: 
-Worked through some challenges on FCC 
+Worked through some challenges on FCC and JS30 lesson. 
 
 **Thoughts:** 
 I got really close with one but fumbled because didn't remember this existed: hasOwnProperty() method returns a boolean indicating whether the object has the specified property. Oh you elusive objects! I shall own you someday.
 
 **Link to work**:
-[FCC](https://www.freecodecamp.com/gizemny)
+[FCC](https://www.freecodecamp.com/gizemny) && [JavaScript30](https://github.com/gizemny/JavaScript30)
