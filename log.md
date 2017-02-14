@@ -97,7 +97,7 @@ I got really close with one but fumbled because didn't remember this existed: ha
 
 ### Day 23: February 13, 2017
 **Today's Progress**: 
-Nailed 2 more AlGorethims today. 
+Nailed 2 more AlGorethims + submitted my tribute page to Spock today. 
 
 **Thoughts:** 
 Reading MDN is starting to make sense. I can also pin-point what to google now when I am stuck. I wanna learn everything. I have 5 basic ones left before JSON + projects begin! SO EXCITED! 
