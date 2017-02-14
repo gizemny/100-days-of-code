@@ -67,7 +67,7 @@ I got close to the solution but ended up looking up the answer. Eventually I wil
 
 ### Day 20: February 10, 2017
 **Today's Progress**: 
-(Yelling from a mountain top) Kicked some bonfire ass at FCC. 
+(Yelling from a mountain top) Kicked some algorithm scripting ass at FCC. 
 
 **Thoughts:** 
 Using [repl.it](https://repl.it/languages/javascript) really helped. I did 2 on my own but peeked on 3rd - so close! Super happy bout tonight. xo 
@@ -94,3 +94,13 @@ I got really close with one but fumbled because didn't remember this existed: ha
 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny) && [JavaScript30](https://github.com/gizemny/JavaScript30)
+
+### Day 23: February 13, 2017
+**Today's Progress**: 
+Nailed 2 more AlGorethims today. 
+
+**Thoughts:** 
+Reading MDN is starting to make sense. I can also pin-point what to google now when I am stuck. I wanna learn everything. I have 5 basic ones left before JSON + projects begin! SO EXCITED! 
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny) 
