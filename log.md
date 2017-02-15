@@ -104,3 +104,13 @@ Reading MDN is starting to make sense. I can also pin-point what to google now w
 
 **Link to work**:
 [FCC](https://www.freecodecamp.com/gizemny) 
+
+### Day 24: February 14, 2017
+**Today's Progress**: 
+I tried my luck at the ones I passed up yesterday but I was way off. Started flexbox lesson. 
+
+**Thoughts:** 
+Much to learn - why did I get so hung on a while loop - I guess I never use those. Also 2 variables to store temp? 🤔 Makes sense but did not come naturally. I think I am gonna start incorporating React to my curriculum - time to get crazy! Also Sketch lol Why not!! 
+
+**Link to work**:
+[FCC](https://www.freecodecamp.com/gizemny) [What-the-flexbox](https://flexbox.io/)
