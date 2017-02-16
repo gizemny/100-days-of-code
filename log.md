@@ -113,4 +113,14 @@ I tried my luck at the ones I passed up yesterday but I was way off. Started fle
 Much to learn - why did I get so hung on a while loop - I guess I never use those. Also 2 variables to store temp? 🤔 Makes sense but did not come naturally. I think I am gonna start incorporating React to my curriculum - time to get crazy! Also Sketch lol Why not!! 
 
 **Link to work**:
-[FCC](https://www.freecodecamp.com/gizemny) [What-the-flexbox](https://flexbox.io/)
+[What-the-flexbox](https://github.com/gizemny/What-The-Flexbox)
+
+### Day 25: February 15, 2017
+**Today's Progress**: 
+Started React - should have done it earlier. This is actually going to help me at work.  
+
+**Thoughts:** 
+Right now it seems similar to Backbone but with ES6... and hopefully this time I will get a bit more explaination & context! lol 
+
+**Link to work**:
+[React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
