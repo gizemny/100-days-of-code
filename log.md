@@ -124,3 +124,13 @@ Right now it seems similar to Backbone but with ES6... and hopefully this time I
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
+
+### Day 26: February 16, 2017
+**Today's Progress**: 
+React React React! 
+
+**Thoughts:** 
+I had some wine with my family. 
+
+**Link to work**:
+[React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
