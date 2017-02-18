@@ -134,3 +134,13 @@ I had some wine with my family.
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
+
+### Day 27: February 17, 2017
+**Today's Progress**: 
+React React React! 
+
+**Thoughts:** 
+I had some wine with my family... again lol 
+
+**Link to work**:
+[React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
