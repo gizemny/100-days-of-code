@@ -117,30 +117,39 @@ Much to learn - why did I get so hung on a while loop - I guess I never use thos
 
 ### Day 25: February 15, 2017
 **Today's Progress**: 
-Started React - should have done it earlier. This is actually going to help me at work.  
+Started React - intro videos + getting set up. Copy paste lotta components. Render is must have in every component. import React always. Using emmet ctrl + e auto completes. 
 
 **Thoughts:** 
-Right now it seems similar to Backbone but with ES6... and hopefully this time I will get a bit more explaination & context! lol 
+Should have done it earlier. Similar to Backbone but with ES6... and hopefully this time I will get a bit more explaination & context! lol 
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
 
 ### Day 26: February 16, 2017
 **Today's Progress**: 
-React React React! 
+Added dynamic data with props. {this.props} select component and type $r in the console (current component) 
 
 **Thoughts:** 
-I had some wine with my family. 
+I have a nice family.
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
 
 ### Day 27: February 17, 2017
-**Today's Progress**: 
-React React React! 
+Stateless functional component: sometimes components only rendering a header so instead of extending entire React.Component you can store a function inside a variable and pass in props and only keep return.
 
 **Thoughts:** 
-I had some wine with my family... again lol 
+I love dogs.
+
+**Link to work**:
+[React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
+
+### Day 28: February 17, 2017
+**Today's Progress**: 
+Created store name generator with Helper.js functions, learned about constructor to make (this) bind our custom method to the StorePicker component, added  a(onSubmit) SyntheticEvent to StorePicker component and URL updates via context + PropTypes. 
+
+**Thoughts:** 
+Realized my log doesn't have any context as to what I have been learning so I will try to keep that in mind moving forward. 
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
