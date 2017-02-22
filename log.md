@@ -110,14 +110,14 @@ Reading MDN is starting to make sense. I can also pin-point what to google now w
 I tried my luck at the ones I passed up yesterday but I was way off. Started flexbox lesson. 
 
 **Thoughts:** 
-Much to learn - why did I get so hung on a while loop - I guess I never use those. Also 2 variables to store temp? 🤔 Makes sense but did not come naturally. I think I am gonna start incorporating React to my curriculum - time to get crazy! Also Sketch lol Why not!! 
+Much to learn - why did I get so hung on a while loop - I guess I never use those. Also 2 variables to store tempprary vars? 🤔 Makes sense but did not come naturally. I think I am gonna start incorporating React to my curriculum - time to get crazy! Also Sketch lol Why not!! 
 
 **Link to work**:
 [What-the-flexbox](https://github.com/gizemny/What-The-Flexbox)
 
 ### Day 25: February 15, 2017
 **Today's Progress**: 
-Started React - intro videos + getting set up. Copy paste lotta components. Render is must have in every component. import React always. Using emmet ctrl + e auto completes. 
+Started React - intro videos + getting set up. Copy paste lotta components. `Render` is must have in every component. import React always. Using emmet `ctrl + e` to auto complete. 
 
 **Thoughts:** 
 Should have done it earlier. Similar to Backbone but with ES6... and hopefully this time I will get a bit more explaination & context! lol 
@@ -127,7 +127,7 @@ Should have done it earlier. Similar to Backbone but with ES6... and hopefully t
 
 ### Day 26: February 16, 2017
 **Today's Progress**: 
-Added dynamic data with props. {this.props} select component and type $r in the console (current component) 
+Added dynamic data with props. `{this.props}` select component and type `$r` in the console (current component) 
 
 **Thoughts:** 
 I have a nice family.
@@ -144,12 +144,30 @@ I love dogs.
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
 
-### Day 28: February 17, 2017
+### Day 28: February 18, 2017
 **Today's Progress**: 
-Created store name generator with Helper.js functions, learned about constructor to make (this) bind our custom method to the StorePicker component, added  a(onSubmit) SyntheticEvent to StorePicker component and URL updates via context + PropTypes. 
+Created store name generator with Helper.js functions, learned about constructor to make (this) `.bind` our custom method to the StorePicker component, added  a(onSubmit) `SyntheticEvent` to StorePicker component and URL updates via context + `PropTypes`. 
 
 **Thoughts:** 
 Realized my log doesn't have any context as to what I have been learning so I will try to keep that in mind moving forward. 
+
+**Link to work**:
+[React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
+
+### Day 29: February 19, 2017
+**Today's Progress**: 
+Log missing - Amnesia  
+
+**Thoughts:** 
+
+**Link to work**:
+
+### Day 30: February 21, 2017
+**Today's Progress**: 
+V sick today. Switched over to ES6. Learned how to shift select items on list. 
+
+**Thoughts:** 
+Adding event listeners & looping via forEach. Used `let` as a variable because it is reassigned constantly. querySelectorAll for all the checkboxes. I didn't reaize that you can set something to `this`. 
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
