@@ -170,4 +170,14 @@ V sick today. Switched over to ES6. Learned how to shift select items on list.
 Adding event listeners & looping via forEach. Used `let` as a variable because it is reassigned constantly. querySelectorAll for all the checkboxes. I didn't reaize that you can set something to `this`. 
 
 **Link to work**:
+[JavaScript30](https://github.com/gizemny/JavaScript30)
+
+### Day 31: February 21, 2017
+**Today's Progress**: 
+Still v sick today. Back to React! Learned about States.
+
+**Thoughts:** 
+New component, reference it in App + Inventory. Use contructor in App and create 2 new states + new method called AddFish that first takes a copy and updates the state using `{...}` spread. Ugh I feel exhausted. 
+
+**Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
