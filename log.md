@@ -181,3 +181,23 @@ New component, reference it in App + Inventory. Use contructor in App and create
 
 **Link to work**:
 [React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
+
+### Day 32: February 23, 2017
+**Today's Progress**: 
+Worked on wp dev environment and fiddled with some templates. 
+
+**Thoughts:** 
+Side projects are important. These skills can be valuable in a pinch. No one knows the future. Mamp or die. 
+
+**Link to work**:
+[React](https://github.com/gizemny/React-For-Beginners-Starter-Files)
+
+### Day 33 & 34: February 28, 2017
+**Today's Progress**: 
+Fcc quote machine 
+
+**Thoughts:** 
+Been very sick, tired or distracted with work and personal life (+ sopranos). My tweet button was a headache. Made me feel bad. I feel like I focus more on the js end than the front-end ... so things look stupid. WHO HAS FREE TIME? I am exhausted
+
+**Link to work**:
+[Codepen](http://codepen.io/gizemist/pen/LWPEyN)
