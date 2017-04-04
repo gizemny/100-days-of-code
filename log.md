@@ -202,12 +202,24 @@ Been very sick, tired or distracted with work and personal life (+ sopranos). No
 **Link to work**:
 [Codepen](http://codepen.io/gizemist/pen/LWPEyN)
 
-### Day 35: April 3, 2017
+### Day 35: March 7, 2017
 **Today's Progress**: 
-Watching tuts and building out stuff. Adding more functionality to codepen momentum app. 
+[retro] According to twitter, I tried making a CSS pizza
 
 **Thoughts:** 
-Experimentation on Codepen and working through FCC, while watching front end masters, coursera and more. I should get started on my website - good project  
+I think this is the last thing I worked on before I dropped the pizza. 
 
 **Link to work**:
+
+
+### Day 36: April 3, 2017
+**Today's Progress**: 
+Watching tuts and experimenting on codepen. 
+
+**Thoughts:** 
+Need to focus on design and reading more than coding right now. 
+Working through FCC, while watching tuts and courses. Attention level is at 0. I should work on my website. 
+
+**Link to work**:
+
  
