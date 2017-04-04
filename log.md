@@ -201,3 +201,13 @@ Been very sick, tired or distracted with work and personal life (+ sopranos). No
 
 **Link to work**:
 [Codepen](http://codepen.io/gizemist/pen/LWPEyN)
+
+### Day 35: April 3, 2017
+**Today's Progress**: 
+Watching tuts and building out stuff. Adding more functionality to codepen momentum app. 
+
+**Thoughts:** 
+Experimentation on Codepen and working through FCC, while watching front end masters, coursera and more. I should get started on my website - good project  
+
+**Link to work**:
+ 
